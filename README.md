@@ -2,7 +2,7 @@
 
 ### Overview
 
-`tRNA_modifier_conservation_KEGG_NCBI.py` quantifies the conservation of selected tRNA-modification enzymes across bacterial phyla.
+`Conservation of tRNA modification genes using KEGG Orthology annotations.py` quantifies the conservation of selected tRNA-modification enzymes across bacterial phyla.
 
 The script uses KEGG bacterial genome representatives and KEGG Orthology assignments to determine the fraction of genomes containing each target enzyme. KEGG organism codes are linked to NCBI Taxonomy identifiers, which are then used to assign each genome to a bacterial phylum.
 
